@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+    - {fileID: 2800000, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+    totalSpriteSurfaceArea: 7936
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8058497134101597608, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -2347646015462427367, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 8643538661235218437, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -971459574244730806, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -1563220781981857225, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 6874356852262815425, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -3081733466587453156, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 8815134915026852803, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 8611220205443910141, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 2265590974686780236, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 1163003456399923676, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -4083720209968713319, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -8407917190084909561, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 475419958339743077, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -712085377328799258, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -8055050672462719467, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 1311213097539701971, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 3413619146159739559, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 6072924578103092366, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 2005146726735904345, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: -559634982293744610, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 2588719866178191606, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  - {fileID: 1639214462598301798, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: -6614373457484812694, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: 349823833441268365, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: 1807125615787039003, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: -4202638810691693305, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: -7995846982363831464, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: 4798128000316562087, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: 2157240733274199957, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  - {fileID: -7708644975649761358, guid: 64b38e8de520f304c88e7b6aafb86a23, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MiniPone_18
+  - MiniPone_21
+  - MiniPone_19
+  - MiniPone_20
+  - MiniPone_16
+  - MiniPone_17
+  - MiniPone_14
+  - MiniPone_15
+  - MiniPone_12
+  - MiniPone_13
+  - MiniPone_10
+  - MiniPone_11
+  - MiniPone_9
+  - MiniPone_8
+  - MiniPone_3
+  - MiniPone_2
+  - MiniPone_1
+  - MiniPone_0
+  - MiniPone_7
+  - MiniPone_6
+  - MiniPone_5
+  - MiniPone_4
+  - tiles_3
+  - tiles_2
+  - tiles_1
+  - tiles_0
+  - tiles_7
+  - tiles_6
+  - tiles_5
+  - tiles_4
+  - tiles_8
+  m_Tag: Tiles
+  m_IsVariant: 0

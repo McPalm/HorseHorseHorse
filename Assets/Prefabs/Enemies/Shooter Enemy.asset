@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c7f6b6105bf5649a650ad150271c53, type: 3}
+  m_Name: Shooter Enemy
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 8815134915026852803, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  colliderType: 0
+  Ledge: {fileID: 2384692138233620981, guid: 48c6736f193e3c64abeca6a2226eeefd, type: 3}
+  OffSet: {x: 0, y: 0}

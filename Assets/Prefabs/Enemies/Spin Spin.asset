@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c7f6b6105bf5649a650ad150271c53, type: 3}
+  m_Name: Spin Spin
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 6874356852262815425, guid: 5a477fc463c1a144ba55526b7cb89651, type: 3}
+  colliderType: 0
+  Ledge: {fileID: 7823279683472458744, guid: e39b210b3e620f445818c42591b57440, type: 3}
+  OffSet: {x: 0, y: 0}
